@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A9234AC42333CF98009A8F9B /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9234AC32333CF98009A8F9B /* TableViewController.swift */; };
-		A9234AC72333D00A009A8F9B /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9234AC52333D00A009A8F9B /* TableViewCell.swift */; };
 		A9234ACB2333DE6B009A8F9B /* Layer+Ex.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9234ACA2333DE6B009A8F9B /* Layer+Ex.swift */; };
 		A9234ACE2333F905009A8F9B /* GradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9234ACD2333F905009A8F9B /* GradientViewController.swift */; };
 		A9356AD2232384FB005CD22E /* CloseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9356AD1232384FB005CD22E /* CloseButton.swift */; };
@@ -22,8 +20,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A9234AC32333CF98009A8F9B /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
-		A9234AC52333D00A009A8F9B /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		A9234ACA2333DE6B009A8F9B /* Layer+Ex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Layer+Ex.swift"; sourceTree = "<group>"; };
 		A9234ACD2333F905009A8F9B /* GradientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientViewController.swift; sourceTree = "<group>"; };
 		A9356AD1232384FB005CD22E /* CloseButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseButton.swift; sourceTree = "<group>"; };
@@ -71,8 +67,6 @@
 				A9484F0B231E9F4800555623 /* AppDelegate.swift */,
 				A9484F0D231E9F4800555623 /* ViewController.swift */,
 				A9234ACD2333F905009A8F9B /* GradientViewController.swift */,
-				A9234AC32333CF98009A8F9B /* TableViewController.swift */,
-				A9234AC52333D00A009A8F9B /* TableViewCell.swift */,
 				A9356AD1232384FB005CD22E /* CloseButton.swift */,
 				A9EA5B4D2332F0ED000CD32B /* ShadowView.swift */,
 				A9EA5B4F2332F158000CD32B /* ShadowView.xib */,
@@ -160,9 +154,7 @@
 				A9EA5B4E2332F0ED000CD32B /* ShadowView.swift in Sources */,
 				A9356AD2232384FB005CD22E /* CloseButton.swift in Sources */,
 				A9484F0E231E9F4800555623 /* ViewController.swift in Sources */,
-				A9234AC72333D00A009A8F9B /* TableViewCell.swift in Sources */,
 				A9234ACE2333F905009A8F9B /* GradientViewController.swift in Sources */,
-				A9234AC42333CF98009A8F9B /* TableViewController.swift in Sources */,
 				A9234ACB2333DE6B009A8F9B /* Layer+Ex.swift in Sources */,
 				A9484F0C231E9F4800555623 /* AppDelegate.swift in Sources */,
 			);

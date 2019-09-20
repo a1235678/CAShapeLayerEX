@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var closeButton: UIButton!
+    @IBOutlet weak var closeButton: CloseButton!
     @IBOutlet weak var widthConstraint: NSLayoutConstraint!
     @IBOutlet weak var heightConstraint: NSLayoutConstraint!
     
